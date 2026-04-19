@@ -81,7 +81,7 @@ This serves as a **baseline approximation**, not a definitive mold detection mod
 
 * No data storage or logging
 * No graphical interface
-* Limited sensor accuracy (DHT11)
+* Limited sensor accuracy (DHT11), (No other sensor Markers)
 * Static threshold-based logic (no learning)
 * No active environmental control
 
@@ -153,15 +153,13 @@ This approach supports:
 
 ```bash
 /Arduino
-  └── aerocure_v1.ino
+  └── Prototypev1_AeroCure.ino
 
-/Python (future)
-  ├── data_logger.py
-  ├── live_plot.py
-  └── dashboard/
+/Python (future, not here yet)
+  ├── 
 
 /docs
-  └── project_notes.md
+  └──
 ```
 
 ---
