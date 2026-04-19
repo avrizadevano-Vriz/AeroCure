@@ -47,7 +47,7 @@ This prototype uses a simple threshold-based system:
 
   * All other conditions
 
-This serves as a **baseline approximation**, not a definitive mold detection model.
+This serves as a **baseline approximation**, not a definitive mold detection model yet. The model is our future direction
 
 ---
 
@@ -169,7 +169,9 @@ This approach supports:
 ## 👥 Contributors
 
 * Avriza Devano
-* [Add team members]
+* Anjali Tholudur
+* Annabelle Duink
+* Matthew Hwang
 
 ---
 
